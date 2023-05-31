@@ -3,7 +3,7 @@ clinte de API de CBTis169
 
 ## Modulo de usurios
 
-Funciones
+## Funciones
 ---------------
 *Leer usuarios
 *Actualizar usuarios
